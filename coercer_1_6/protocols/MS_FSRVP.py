@@ -6,7 +6,7 @@
 
 
 import sys
-from coercer.utils.RPCProtocol import RPCProtocol, DCERPCSessionError
+from coercer_1_6.utils.RPCProtocol import RPCProtocol, DCERPCSessionError
 from impacket.dcerpc.v5.ndr import NDRCALL
 from impacket.dcerpc.v5.dtypes import WSTR
 from impacket.dcerpc.v5.rpcrt import RPC_C_AUTHN_WINNT, RPC_C_AUTHN_LEVEL_PKT_PRIVACY
