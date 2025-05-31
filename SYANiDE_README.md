@@ -11,4 +11,4 @@ uv tool install .    ## installs coercer_1_6 on path
 vim SYANiDE_README.md
 git add *
 git commit -m "Version locked Coercer 1.6"
-git push origin master
+git push origin master --force
