@@ -7,7 +7,7 @@
 
 import sys
 import random
-from coercer.utils.RPCProtocol import RPCProtocol, DCERPCSessionError
+from coercer_1_6.utils.RPCProtocol import RPCProtocol, DCERPCSessionError
 from impacket.dcerpc.v5 import rprn
 from impacket.dcerpc.v5.dtypes import NULL
 
